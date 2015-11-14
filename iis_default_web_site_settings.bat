@@ -1,0 +1,1 @@
+%windir%\system32\inetsrv\appcmd set vdir "Default Web Site/" /physicalPath:C:\django_apps\Django_wfastcgi_sample\my_project
